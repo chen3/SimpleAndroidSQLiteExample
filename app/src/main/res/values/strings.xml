@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteOpeartorExample</string>
+    <string name="username">用户名</string>
+    <string name="interest">爱好</string>
+    <string name="add">添加</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="confirm_delete">确定删除</string>
+    <string name="delete_display_content">您确定删除该条记录？该操作无法撤销！</string>
+    <string name="delete_over">删除记录完成</string>
+    <string name="add_over">添加记录完成</string>
+    <string name="icon_order">排序</string>
+</resources>
